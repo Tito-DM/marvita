@@ -1,0 +1,13 @@
+h2{
+    position: absolute;
+    top: 30%;
+    color:whitesmoke;
+    font-weight: 400;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.spacer{
+    height: 55rem;
+}
