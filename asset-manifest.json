@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/marvita/static/css/main.284e1ccc.chunk.css",
+    "main.js": "/marvita/static/js/main.3aaf5b71.chunk.js",
+    "main.js.map": "/marvita/static/js/main.3aaf5b71.chunk.js.map",
+    "runtime-main.js": "/marvita/static/js/runtime-main.499ca5ae.js",
+    "runtime-main.js.map": "/marvita/static/js/runtime-main.499ca5ae.js.map",
+    "static/css/2.36020323.chunk.css": "/marvita/static/css/2.36020323.chunk.css",
+    "static/js/2.430b68e6.chunk.js": "/marvita/static/js/2.430b68e6.chunk.js",
+    "static/js/2.430b68e6.chunk.js.map": "/marvita/static/js/2.430b68e6.chunk.js.map",
+    "index.html": "/marvita/index.html",
+    "precache-manifest.49121f10545931994ff14c32486ff903.js": "/marvita/precache-manifest.49121f10545931994ff14c32486ff903.js",
+    "service-worker.js": "/marvita/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/marvita/static/css/2.36020323.chunk.css.map",
+    "static/css/main.284e1ccc.chunk.css.map": "/marvita/static/css/main.284e1ccc.chunk.css.map",
+    "static/js/2.430b68e6.chunk.js.LICENSE.txt": "/marvita/static/js/2.430b68e6.chunk.js.LICENSE.txt",
+    "static/media/House1.jpg": "/marvita/static/media/House1.93139695.jpg",
+    "static/media/App.scss": "/marvita/static/media/imgbckg.06553c49.png",
+    "static/media/pic.jpg": "/marvita/static/media/pic.46a3b4e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499ca5ae.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.430b68e6.chunk.js",
+    "static/css/main.284e1ccc.chunk.css",
+    "static/js/main.3aaf5b71.chunk.js"
+  ]
+}
